@@ -2,8 +2,6 @@
 
 An end-to-end solution for digit classification built with a Convolutional Neural Network (CNN) using PyTorch. This project is trained on the MNIST dataset and includes a Flask API for real-time digit recognition from image uploads.
 
-![Example Image](path_to_some_example_image.png)  <!-- You can include an image if you have one -->
-
 ## Features
 
 - Convolutional Neural Network for robust digit recognition.
